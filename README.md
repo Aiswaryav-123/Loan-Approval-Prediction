@@ -10,5 +10,7 @@ Loan Approval Prediction is a case study on automating loan eligibility assessme
 <img src="https://img.shields.io/badge/Pandas-Data_Analysis-purple?style=flat-square" alt="Pandas Badge">
 <img src="https://img.shields.io/badge/NumPy-Scientific_Computing-teal?style=flat-square" alt="NumPy Badge">
 
-
 ---
+# User Interface
+
+![loan_streamlit](https://github.com/user-attachments/assets/1e6aca88-c10b-403a-99f5-96b3d4fae017)
