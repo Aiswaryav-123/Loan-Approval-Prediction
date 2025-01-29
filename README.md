@@ -1,13 +1,14 @@
 # Loan-Approval-Prediction
 Loan Approval Prediction is a case study on automating loan eligibility assessment using machine learning. It analyzes applicant details, such as income, credit history, and loan amount, to predict approval chances, enhancing decision-making for financial institutions.
 ---
-<img src="https://github.com/user-attachments/assets/fdac3a60-6a9c-4080-863f-e8c0be6ebc18" alt="loan_streamlit.png" width="45%" />
+
 # Tools
-<img src="https://img.shields.io/badge/phpMyAdmin-MySQL_Tool-yellow?style=flat-square" alt="phpMyAdmin Badge">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-Editor-blue?style=flat-square" alt="VS Code Badge">
-<img src="https://img.shields.io/badge/PHP-Server_Scripting-purple?style=flat-square" alt="PHP Badge">
-<img src="https://img.shields.io/badge/MySQL-Database-orange?style=flat-square" alt="MySQL Badge">
-<img src="https://img.shields.io/badge/HTML-Frontend-orange?style=flat-square" alt="HTML Badge">
-<img src="https://img.shields.io/badge/CSS-Styling-blue?style=flat-square" alt="CSS Badge">
+<img src="https://img.shields.io/badge/Jupyter_Notebook-Interactive_Environment-orange?style=flat-square" alt="Jupyter Badge">
+<img src="https://img.shields.io/badge/Streamlit-ML_App_Framework-red?style=flat-square" alt="Streamlit Badge">
+<img src="https://img.shields.io/badge/Matplotlib-Data_Visualization-blue?style=flat-square" alt="Matplotlib Badge">
+<img src="https://img.shields.io/badge/Python-Programming_Language-blue?style=flat-square" alt="Python Badge">
+<img src="https://img.shields.io/badge/Pandas-Data_Analysis-purple?style=flat-square" alt="Pandas Badge">
+<img src="https://img.shields.io/badge/NumPy-Scientific_Computing-teal?style=flat-square" alt="NumPy Badge">
+
 
 ---
