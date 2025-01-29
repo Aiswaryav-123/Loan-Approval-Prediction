@@ -14,3 +14,14 @@ Loan Approval Prediction is a case study on automating loan eligibility assessme
 # User Interface
 
 ![loan_streamlit](https://github.com/user-attachments/assets/1e6aca88-c10b-403a-99f5-96b3d4fae017)
+
+# Run the project
+Run the preprocessing.ipynb 
+
+### Streamlit App
+
+```markdown
+
+ streamlit run app.py
+
+```
